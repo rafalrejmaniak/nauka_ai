@@ -19,3 +19,5 @@ Najwyższe napiwki klienci zostawiają w niedziele, najniższe zaś w czwartek i
 
 ## Podsumowanie
 Analiza danych prowadzi do wniosku, że palenie nie wpływa na wysokość napiwków. Natomiast takie cechy jak płeć i dzień tygodnia mają umiarkowany wpływ na wysokość napiwków.
+
+![Zależność między rachunkiem a napiwkiem](figures/tip_vs_bill_trend.png)
